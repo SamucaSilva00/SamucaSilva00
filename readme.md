@@ -1,12 +1,12 @@
 ## Hello, there ✌
 
-My name is Isaac and I am a full-stack web developer from São Fidélis, Rio de Janeiro. I like programing and my goal is to create awesome websites and applications that solve real world problems while looking beautiful on every device (and to teach others how to do the same). I'm currently working at [OneBitCode](https://www.instagram.com/onebitcode/) as instructor and full-stack developer.
+Meu nome é Samuel e eu sou um desenvolvedor Full Stack de São Paulo. Eu gosto muito de programação desde a infância e por isso tenho trilhado por essa área. No momento estou procurando minha primiera oportunidade como DEV. Faço curso na OBC e faço a faculdade de Análise e desenvolvimento de sistemas na Unicsul.
 
-<!-- I'm currently open for new projects so you can reach me trough [WhatsApp](https://wa.me/5522996057593), [Telegram](https://t.me/isaacpontes_dev) or [email](mailto:contato@isaacpontes.dev.br) -->
+<!-- I'm currently open for new projects so you can reach me trough [email](mailto:samuel.rodrigueslsilva@gmail.com) -->
 
 
 <a href="#">
-<img src="https://media1.tenor.com/images/a7bd6b94430c1e66148d580209e377c5/tenor.gif?itemid=5043108" title="hello" width="335" height="243" align="right" alt="Hello, there!">
+<img src="https://tenor.com/pt-BR/view/0001-gif-25597406" title="hello" width="335" height="243" align="right" alt="Hello, there!">
 </a>
 
 
