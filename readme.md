@@ -1,6 +1,6 @@
 ## Hello, there ✌
 
-My name is Samuel and I'm a backEnd developer from São Paulo. I've really liked programming since childhood and that's why I've been pursuing this field. I'm currently looking for my first opportunity as a developer. I take a course at OBC and study Systems Analysis and Development at Unicsul.
+My name is Samuel and I'm a backEnd developer from São Paulo. I've really liked programming since childhood and that's why I've been pursuing this field. I'm currently work as a developer at Suzano SA. I take a course at OBC and study Systems Analysis and Development at Unicsul.
 
 <!-- I'm currently open for new projects so you can reach me trough [email](mailto:samuel.rodrigueslsilva@gmail.com) -->
 
